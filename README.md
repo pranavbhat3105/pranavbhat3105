@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Pranav Bhat</h1>
 <h3 align="center">A passionate Devops/Cloud Engineer from Bangalore,India</h3>
